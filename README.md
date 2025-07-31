@@ -3,7 +3,12 @@
 **A blueprint for safe, auditable, and explainable AI in U.S. healthcare.**
 
 ---
-
+> **Why it matters:**  
+> • **Patients deserve AI that won’t misdiagnose or hide bias**  
+> • **Independent audits & explainability**—no black-box decisions on your health  
+> • **Real-time safety monitoring** catches harmful updates before they reach hospitals  
+> • **Sets a global bar**: U.S. leads on trustworthy medical AI, not risky shortcuts
+---
 ## Overview
 
 The **AI Clinical Safety Act (AACDSA)** is a federal legislative proposal to ensure any artificial intelligence (AI) system deployed in U.S. healthcare settings meets rigorous standards for safety, transparency, and accountability. It mandates independent audits, public model cards, explainability protocols, and robust privacy and risk controls for all clinical AI tools used in diagnosis, treatment, or patient care.
