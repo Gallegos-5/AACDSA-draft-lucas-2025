@@ -49,6 +49,10 @@ The **AI Clinical Safety Act (AACDSA)** is a federal legislative proposal to ens
 in Clinical Decision Software Act.pdf](./AACDSApdf.pdf)
 
 ---
+## DOI
+
+[Gallegos, Lucas. *AI Clinical Safety Act (AACDSA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627536)
+****
 
 ## Part of the G5 Reform Portfolio
 
